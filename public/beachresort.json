@@ -1,0 +1,326 @@
+{
+    "resorts": [
+        {
+            "id": 1,
+            "name": " Taj Green Cove Resort & Spa Kovalam",
+            "place": "Kovalam",
+            "image": "https://i.postimg.cc/sD0csqXy/Taj-Green-Cove-Resort0310.webp",
+            "whats_special": "Ayurveda and Jiva spa by Naturopathy Doctor, Tropical gardens, Bath settings around a stone sculpture garden, long coastline",
+            "suggested_suite": "Deluxe Suites Sea View with Balcony",
+            "tariff": " INR 18,000 per night onwards",
+            "reviews": [
+                {
+                    "name": "Debanuj K",
+                    "date": "August 2022",
+                    "rating": 5,
+                    "comments": "The entire team of Taj Green Cove is very professional and looked after us very well during our stay. The hotel is child friendly and our kid enjoyed a lot during the stay. Special thanks to Jasmine, Mugal Kalita, Pradeep, Venigopal, Md Tausif, Nikki, Shivaramakrishnan, Krishna, Prakash Mahato, Anuraj, Sanjeev and the entire team of Taj for making our stay a memorable one. We'll definitely be staying in Taj Green Cove to experience such a warm hospitality once again in our next visit to Kovalam."
+                },
+                {
+                    "name": "Rohit ",
+                    "date": " February 2023",
+                    "rating": 5,
+                    "comments": "Very comfortable stay. Well managed luxurious property. I wish if the Taj team can give a basic tour of the property and what all things are included in the package. The buffet spread and the overall preparations were just as you expect at Taj! The evening snack location was also amazing. The only thing missing was a private beach. Kovalam beach is not far away"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": " Niraamaya Retreats Surya Samudra",
+            "place": "Kovalam",
+            "image": "https://i.postimg.cc/fyy9PWYd/Niraamaya-Retreats-Surya-Samudra0310.webp",
+            "whats_special": " Rock-cut infinity pool, Niraamaya spa, secluded beaches",
+            "suggested_suite": "Octagon",
+            "tariff": " INR 13,000 per night onwards",
+            "reviews": [
+                {
+                    "name": "Jose P ",
+                    "date": "April 2023",
+                    "rating": 5,
+                    "comments": "Lovely views and very helpful staff, very spacious sea facing room... Ideal place for a break with family.. Spacious wash room and excellent aminities.. Beautiful beach neat and clean. Very good swimming pool and sea facing restaurant"
+                },
+                {
+                    "name": "Sara B ",
+                    "date": "March 2023",
+                    "rating": 5,
+                    "comments": "Great experience and amazing resort with beautiful view of arabian sea.. Great service and nice food.... Warm welcomed... Excellent staff... Nice rooms well maintained and excellent amenities. Beautiful garden "
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": " Xandari Pearl ",
+            "place": "Mararikulam",
+            "image": "https://i.postimg.cc/xdkjBkZn/xandari-pearl.jpg",
+            "whats_special": "Open-to-the-air shower space, mini-bar in each villa",
+            "suggested_suite": "Blue Pearl Villas",
+            "tariff": "INR 20,000 per night onwards",
+            "reviews": [
+                {
+                    "name": "Ananya",
+                    "date": "February 2023",
+                    "rating":5 ,
+                    "comments": "Exceptional resort, the best one I've ever experienced! Especially loved how everything is structured such that it exists in harmony with nature. From refillable toiletries to eliminating unnecessary plastic, to their own organic farm, a number of steps have been taken to not only provide guests a phenomenal stay, but also to really keep the environment in mind at every stage. In addition, the staff was great and ever happy to help, and the rooms were stunning and impeccably maintained. Can't recommend this property highly enough. Thank you for the best stay!!"
+                },
+                {
+                    "name": "Vinks",
+                    "date": "November 2022",
+                    "rating":5 ,
+                    "comments": "Had stayed here months back and it was a satisfying stay at this resort. The rooms are big and they have an outdoor bathroom which is very well curated. The food here was amazing, Especially the beef. Kudos to the chef and team. Wish they had more options with respect to desert. Only beer and wine is served here. There are few activities here like boat paddling,fishing, cycling etc. The beach is couple of minutes walk from the resort and security is present at the beach to keep us safe."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "B’Canti Boutique Beach Resort",
+            "place": "Varkala",
+            "image": "https://i.postimg.cc/wTPG07Dh/BCanti-Boutique-Beach-Resort0310.webp",
+            "whats_special": "The Bait & Hook in-house restaurant, Ayurveda and Yoga Ashram",
+            "suggested_suite": "Superior Sea View Room ",
+            "tariff": "INR 10,000 per night onwards",
+            "reviews": [
+                {
+                    "name": "Simon Willmetts",
+                    "date": "March 2023",
+                    "rating": 4.5,
+                    "comments": "What a lovely spot overlooking one of the nicest beaches along the Varkala stretch of coast. The sea was relatively calm as well and was a nice place to swim, which was great as we read that some beaches can be dangerous. Obviously be careful whenever you swim in the sea, but we found it a calm and beautiful spot for a dip. The hotel itself was nice, I think mostly you’re paying for the location and the pool, and the sea views and sound of the ocean lulling you to sleep. The restaurant was exceptional. Some of the best food we’ve had in a month of traveling through India. And the staff were very helpful and friendly. I’d definitely come back! Even if you’re not staying here I’d really recommend visiting the beach and eating in the restaurant. Great place"
+                },
+                {
+                    "name": "Rajat",
+                    "date": "March 2023",
+                    "rating":5 ,
+                    "comments": "I had the most wonderful time at B'Canti Boutique Beach Resort, Varkala. The property was beautiful and the morning & evening views were breathtaking because they have a private beach. The cozy nights spent around the high tides of beach added to the relaxing atmosphere and made my stay even more enjoyable. I can't wait to visit again and experience it all over again.Thanks B'Canti For Having Us."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": " Baywatch Beach Resort ",
+            "place": "Alleppey",
+            "image": "https://i.postimg.cc/rsD9rNn7/Baywatch-Beach-Resort0310.webp",
+            "whats_special": "Free Continental breakfast, Free Parking space",
+            "suggested_suite": "Deluxe Double Bedroom A/C",
+            "tariff": " INR 800 per night onwards",
+            "reviews": [
+                {
+                    "name": "Jane",
+                    "date": "January 2023",
+                    "rating": 4,
+                    "comments": "Really superb place for enjoying. Lots of snacks available at a reasonable price. The ice cream shop is simply excellent with a lot of flavours. Taste is delicious. But the availability of washrooms is less."
+                },
+                {
+                    "name": "Angel",
+                    "date": "February 2023",
+                    "rating": 3,
+                    "comments": "Good location but poorly maintained. Rooms are like Oyo rooms. you will get a good breakfast that's all , no food service after tat only swiggy or Zomato n that too no good restaurants around."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Vivanta By Taj",
+            "place": "Bekal",
+            "image": "https://i.postimg.cc/HLWvLXm1/Vivanta-by-Taj-at-Bekal-in-Kerala.webp",
+            "whats_special": "Rejuvenation at the Jiva Grande Spa, kayaking, boating, fishing or simply lazing around on the beach.",
+            "suggested_suite": "Deluxe Delight offers ultimate luxury with a spacious courtyard and a plunge pool.",
+            "tariff": "INR 7,800 per night onwards",
+            "reviews": [
+                {
+                    "name": "Akshay Hundia",
+                    "date": "April 2023",
+                    "rating":5 ,
+                    "comments": "Property is very good and embraces nature. Loved the exteriors of the property. Beach was super clean but not allowed to swim. Backwaters and trees were beautiful. Room were old and needs upgrades specifically bathrooms. There is only one dining area and that too is not very well maintained. Staff is very good but not very well trained like other Taj properties. Food was awesome. We tried local Kerala food too."
+                },
+                {
+                    "name": "Vineet",
+                    "date": "March 2023",
+                    "rating":5 ,
+                    "comments": "The place is absolutely blissful and the Taj Hospitality needs no introduction. A large property spread midst the woods and the backwaters just touching the clean beach. Has something for everyone. What a lovely vacation I had. The room the food the service the spa the every little things I asked for was done with a lot of care and attention. Loved it!!!"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The Leela Kovalam ",
+            "place": "Thiruvananthapuram ",
+            "image": "https://i.postimg.cc/VkKBDhx2/The-Leela-Kovalam.webp",
+            "whats_special": " Gourmet restaurants, the Tides located right on the beach, and the Rooftop Sky bar.",
+            "suggested_suite": " Duplex Suite; it is an exquisite two level accommodation—a living room and a balcony on one level and a large sea-facing bedroom on the other.",
+            "tariff": " INR 8,500 per night onwards",
+            "reviews": [
+                {
+                    "name": "Soudamini Mohapatra",
+                    "date": "April 2023",
+                    "rating":5 ,
+                    "comments": "I visited the hotel with family and had a pleasant stay. The staff at the reception were very friendly and helpful. Our sea view room had a great view of the sea. The room was clean and spacious. The staff of reception, restaurant and housekeeping are wonderful. The high point was the swimming pool which is overlooking the sea. The sunset view was very beautiful. Our flight was in the evening and the hotel allowed us to check out late. Overall our stay was very enjoyable. Thanks to all the staff of the hotel for making our stay very pleasant. Food could have been better. There were too many gravy items and menu was repetitive."
+                },
+                {
+                    "name": "Manish Jain",
+                    "date": "March 2023",
+                    "rating":5 ,
+                    "comments": "Fantastic place. Destination in itself. Great views.Been to many 5 stars but none like this on  These guys really pamper the guest in every way. Had a great time here.   Local villagers arrange for snorkelling, fishing and boating. We personally loved rowing boat ride."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Niraamaya Retreats Surya Samudra",
+            "place": "Kovalam",
+            "image": "https://i.postimg.cc/rww50JDj/Niraamaya-Retreats-Surya-Samudra.webp",
+            "whats_special": "This beach resort in Kerala is an ideal tranquil getaway for those who relish the sounds of oceanic waves at night.",
+            "suggested_suite": "The Octagon—a traditional Kerala stone house with its own private sun deck looking over the Arabian sea and unique open-to-air rain shower baths.",
+            "tariff": "INR 9,000 per night onwards",
+            "reviews": [
+                {
+                    "name": "Sivaprasad",
+                    "date": "January 2023",
+                    "rating":5 ,
+                    "comments": "Awesome and Stunning property with clean, spacious cottages. beach is serene and calm for long morning walks. The hospitality of all the staff is beyond words…so polite, courteous and super helpful. Overall we had three days of complete relaxation in this awesome resort. f We enjoyed e lot"
+                },
+                {
+                    "name": "Indrajeet Yadav",
+                    "date": "February 2023",
+                    "rating":4.5 ,
+                    "comments": "I recently stayed at this hotel for a business trip, and I was blown away by the level of comfort and luxury. The room was spacious and beautifully decorated, and the bed was incredibly comfortable. The staff were friendly and accommodating, and they went out of their way to make sure I had everything I needed. I would definitely stay here again"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Bethsaida Hermitage ",
+            "place": "Thiruvananthapuram",
+            "image": "https://i.postimg.cc/288125C8/Bethsaida-Hermitage-Thiruvananthapuram.webp",
+            "whats_special": " Ubiquitous Ayurveda treatments, authentic Kerala cuisine at its fine restaurant, and Indian classical dance and music performances.",
+            "suggested_suite": "Kottaram house; the rooms are in a hexagonal building at a height that offers excellent views of the beach. It has a unique double–tiered self-ventilating roof system which ensures cooling at all times.",
+            "tariff": "INR 18,000 per night onwards",
+            "reviews": [
+                {
+                    "name": "Ashok Kumar",
+                    "date": "January 2023",
+                    "rating":5 ,
+                    "comments": "Location is just at the beach, quiet and calm place. We had a wonderful stay at this hotel. Be prepared for lots of big red ants and few lizards in the room. All rooms are sea facing with beautiful sea view. Only 2 hotels have access to the beach in front of this hotel. There is always a life guard from the hotel at the beach who helps us to go deep in sea.Buffet food is all veg. For Ala -Carte order at restaurant at least 2 hours in advance. overall the restaurant food is good."
+                },
+                {
+                    "name": "Nika U",
+                    "date": "April 2023",
+                    "rating": 3,
+                    "comments": "The property is absolutely gorgeous and we really enjoyed the Ayurveda treatments. The staff is nice and welcoming. The only thing we disliked was the food, which was tasteless and overpriced."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Marari Beach Resort ",
+            "place": "Mararikulam",
+            "image": "https://i.postimg.cc/kX1vyz3z/Marari-Beach-resort-Mararikulam.webp",
+            "whats_special": "Al fresco shower; surfboarding and beach parties. If you love wildlife, you can spot exotic species of butterflies, birds, turtles and frogs here.",
+            "suggested_suite": " Deluxe Pool Villa; exotic bamboo cottages with a large pool and a sit-out to savour those pleasurable relaxing moments.",
+            "tariff": " INR 7,000 per night onwards",
+            "reviews": [
+                {
+                    "name": "Ramachandran",
+                    "date": "December 2023",
+                    "rating":5 ,
+                    "comments": "Definitely one of the best resorts I have stayed at - more than a resort, it was a holistic experience. The rooms and all the amenities in the resort have been very thoughtfully crafted with a lot of attention to detail. There are a number of activities which let you explore the local culture and cuisine. The resort has direct access to the beach - the beach is clean, reasonably safe for swimming, and offers a beautiful view of the sunset. The food was great with responsibly sourced ingredients (most of them locally and organically grown) and tasted delicious. Would love to come here again."
+                },
+                {
+                    "name": "Aliasgar",
+                    "date": "March 2023",
+                    "rating": 4.5,
+                    "comments": "Awesome resort! Everything from the booking, to checkin and checkout was perfect.We had booked two rooms out of which one was a pool villa. The rooms were clean, spacious and the open air bathroom was beautiful. Everything in the room worked and all basic amenities were available."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Turtle On The Beach ",
+            "place": "Thiruvananthapuram",
+            "image": "https://i.postimg.cc/tgh68mwX/Turtle-on-the-Beach-Thiruvananthapuram.webp",
+            "whats_special": "A tastefully decorated Mediterranean restaurant, traditional Ayurvedic massage treatment, and rejuvenating chocolate body massage at the modern spa facility",
+            "suggested_suite": "Turtle Signature suite; it is designed in Japanese style with its typical low-placed beds and seating arrangement. It comes with a lounge area, a kitchenette, and huge windows for sea viewing.",
+            "tariff": " INR 5,000 per night onwards",
+            "reviews": [
+                {
+                    "name": "Elizabeth",
+                    "date": "March 2023",
+                    "rating": 5,
+                    "comments": "My husband and I came for a couple of nights on the end of our honeymoon in Kerala, and this was BY FAR the best resort we stayed at. We had the Honeymoon Suite, which had an amazing view of the Arabian Sea. We could watch the sunset from the balcony over the sea over afternoon tea service. The staff was very attentive (thank you to Rajesh for such a warm welcome and making us comfortable!) and the food was OUTSTANDING. We had a candlelight dinner, during which the head chef came out to greet us. I highly recommend this resort to anyone looking in the area."
+                },
+                {
+                    "name": "Murali K",
+                    "date": "April 2023",
+                    "rating": 4.5,
+                    "comments": "Good hospitality by staff. Close to beach, can be accessed via public road. Food was good, especially buffet option. Kids loved the swimming pool. As a surprise we were upgraded to sea view room, and entire family loved it. Highly recommend for family with kids as well as for couples aand extended families and friends. Thanks to the management and we wish to come back here in near future."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": " Coconut Bay Beach Resort ",
+            "place": "Kovalam",
+            "image": "https://i.postimg.cc/bJmZhXTj/Coconut-Bay-Beach-Resort-Kovalam.webp",
+            "whats_special": " Ayurveda spa, serenity and peace, natural landscape",
+            "suggested_suite": " Deluxe Villas equipped with all modern amenities; one can step out on its very own sun deck replete with beach beds and hammocks.",
+            "tariff": " INR 5,200 per night onwards",
+            "reviews": [
+                {
+                    "name": "Arup Dutta",
+                    "date": "August 2022",
+                    "rating":4 ,
+                    "comments": "Beautiful view of Indian Ocean... After the Vizhinjam port work is started it's beauty comes to an end..."
+                },
+                {
+                    "name": "Suresh K",
+                    "date": "October 2022",
+                    "rating": 4,
+                    "comments": "Well maintained. Nice view of Indian Ocean"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The Gateway Hotel ",
+            "place": "Varkala",
+            "image": "https://i.postimg.cc/vT6bSC2h/The-Gateway-Hotel-Varkala.webp",
+            "whats_special": "The Ayurvedic massage packages and the excellent surroundings",
+            "suggested_suite": "Superior Sea View Rooms; beautifully decorated rooms and balconies for that perfect view of the sea",
+            "tariff": "INR 4,500 per night onwards, luxury rooms go up to INR 9,500 per night",
+            "reviews": [
+                {
+                    "name": "Vikrant",
+                    "date": "November 2022",
+                    "rating":5 ,
+                    "comments": "Excellent property. Fantastic location, just 5 min from North cliff, 5 min from temple and 5 min from the beach. Rooms are spacious with required amenities. Pool is decent in size, separate pool for kids. Food is very tasty and can be prepared as per your taste/ request. Food manager Mr. Natesh was very helpful, even suggested better sightseeing options."
+                },
+                {
+                    "name": "Sivagami",
+                    "date": "January 2023",
+                    "rating": 4,
+                    "comments": "The best place to stay in Varkala. We stayed in a spacious rooms with sit out and garden in Level1. Location is good, with access to beach. Taste and quality of food is good. The menu is limited. However, the Chef tried his best to serve the food of our choice. Disappointed with non inclusion of any local dish in the breakfast spread. Overall, enjoyed our stay, though the property doesn’t justify to be a part of Taj Hotels."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Poovar Island Resort ",
+            "place": "Trivandrum",
+            "image": "https://i.postimg.cc/DzXVh1Pf/1592540396-poovar-island-resort-jpg.webp",
+            "whats_special": " The boat rides are amazingly peaceful and serene. You can also go bird watching or join a cookery class in the resort itself",
+            "suggested_suite": "Floating Cottages; experience living on water in the finely designed cottages, floating on the beach",
+            "tariff": "INR 6,000 per night onwards",
+            "reviews": [
+                {
+                    "name": "Ankur D",
+                    "date": "January 2023",
+                    "rating":4 ,
+                    "comments": "Resort is huge, property is wide with lot of activities to do, of course by paying extra bucks. To visit resort from parking they provide boats, which feels good at times but little riskier during night time as no lights is present during route and some mishaps happen then nobody is there to help. Food service is bit slow, but taste is fine of food nor very great. Rooms are quite big, comfortable and service is also good. Nice place to stay!!"
+                },
+                {
+                    "name": "Visakh S",
+                    "date": "February 2023",
+                    "rating": 4.5,
+                    "comments": "We thoroughly enjoyed our visit to Poovar Island Resort. The hospitality was really courteous. The buffet dishes were quite rich in taste. The activity centre proved very engaging for children and all of us alike. The overall ambience was pretty awesome. Will continue to recommend the property to our friends and families as well as our clients."
+                }
+            ]
+        }
+    ]
+}
